@@ -14,8 +14,8 @@
 <br />
 
 <div align="center">
-  <a href="https://usamamangi.dev">
-    <img src="https://img.shields.io/badge/Portfolio-usamamangi.dev-00c758?style=for-the-badge&logo=firefox&logoColor=white" height="35" />
+  <a href="https://usamamangi.me">
+    <img src="https://img.shields.io/badge/Portfolio-usamamangi.me-00c758?style=for-the-badge&logo=firefox&logoColor=white" height="35" />
   </a>
   <a href="mailto:usamamangi.fl@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
