@@ -52,11 +52,11 @@ My engineering philosophy is grounded in **structural critique** and **systemic 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Eco Restoration AI](https://github.com/UsamaGM/eco-restoration)** | Generative AI pipeline (Stable Diffusion, DeepLabV3+) to digitally restore polluted landscapes. | `Python` `GenAI` `React` |
-| **[Solar Segmentation SSL](https://github.com/UsamaGM/solar-segmentation-annotation-ssl)** | Research-grade Geospatial Intelligence system using Self-Supervised Learning. | `PyTorch` `OpenCV` `SSL` |
-| **[Hono vs Express](https://github.com/UsamaGM/hono-vs-express)** | Deep dive benchmarking suite comparing Edge-optimized Hono.js vs Express.js throughput. | `TypeScript` `K6` `Node` |
-| **[Interviewer AI](https://github.com/UsamaGM/InterviewAI)** | AI platform that generates dynamic technical interview questions and scores responses. | `Gemini API` `NLP` `React` |
-| **[Dotfiles](https://github.com/UsamaGM/neovim-setup)** | Deeply customized Lua configuration for Neovim to achieve maximum development velocity. | `Lua` `LSP` `Vimscript` |
+| **[Eco Restoration AI](https://github.com/usama-mangi/eco-restoration)** | Generative AI pipeline (Stable Diffusion, DeepLabV3+) to digitally restore polluted landscapes. | `Python` `GenAI` `React` |
+| **[Solar Segmentation SSL](https://github.com/usama-mangi/solar-segmentation-annotation-ssl)** | Research-grade Geospatial Intelligence system using Self-Supervised Learning. | `PyTorch` `OpenCV` `SSL` |
+| **[Hono vs Express](https://github.com/usama-mangi/hono-vs-express)** | Deep dive benchmarking suite comparing Edge-optimized Hono.js vs Express.js throughput. | `TypeScript` `K6` `Node` |
+| **[Interviewer AI](https://github.com/usama-mangi/InterviewAI)** | AI platform that generates dynamic technical interview questions and scores responses. | `Gemini API` `NLP` `React` |
+| **[Dotfiles](https://github.com/usama-mangi/neovim-setup)** | Deeply customized Lua configuration for Neovim to achieve maximum development velocity. | `Lua` `LSP` `Vimscript` |
 
 ---
 
