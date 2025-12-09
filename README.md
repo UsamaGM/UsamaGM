@@ -1,27 +1,74 @@
-# 💫 About Me:
-Developer, learner, builder — one commit at a time<br>MERN + TypeScript | Crafting clean UI & logic<br>CS @ Sukkur IBA | Graduation: 2026<br>Building tools that save time, not just look pretty<br>Neovim powered — minimal, fast, deeply customized dev setup<br>Always shipping, always learning — open to collabs!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Usama%20Mangi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Systems%20Thinker%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" />
+</div>
 
+<div align="center">
+  <h3>
+    "I don't just write code; I engineer resilient ecosystems."
+  </h3>
+  <p>
+    Building the bridge between algorithmic efficiency and human-centric design.
+  </p>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usamamangi.gm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usama-mangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usamamangi.fl@gmail.com) 
+<br />
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UsamaGM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UsamaGM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaGM&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <a href="https://usamamangi.dev">
+    <img src="https://img.shields.io/badge/Portfolio-usamamangi.dev-00c758?style=for-the-badge&logo=firefox&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:usamamangi.fl@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://linkedin.com/in/usama-mangi">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UsamaGM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<hr />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧠 Cognitive Architecture
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UsamaGM&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My engineering philosophy is grounded in **structural critique** and **systemic analysis**. I transitioned from standard web development to High-Performance Computing and AI because I am not content with high-level abstractions—I seek to optimize the underlying computational substrate.
+
+* **Systemic Critique:** Debugging via Root Cause Analysis (RCA) to address structural deficits (influenced by *Noam Chomsky*).
+* **Data Narrative:** Treating database schemas as "imagined orders" to model real-world complexity (influenced by *Yuval Noah Harari*).
+* **Toolsmithing:** I don't just use tools; I forge them. My Neovim workflow is a testament to velocity and efficiency.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UsamaGM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Technical DNA
+
+| **Core Stack** | **AI & Data** | **Systems & DevOps** |
+| :--- | :--- | :--- |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) |
+| ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) | ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlebard&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) |
+
+---
+
+### 📂 Engineered Systems (Selected Work)
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Eco Restoration AI](https://github.com/UsamaGM/eco-restoration)** | Generative AI pipeline (Stable Diffusion, DeepLabV3+) to digitally restore polluted landscapes. | `Python` `GenAI` `React` |
+| **[Solar Segmentation SSL](https://github.com/UsamaGM/solar-segmentation-annotation-ssl)** | Research-grade Geospatial Intelligence system using Self-Supervised Learning. | `PyTorch` `OpenCV` `SSL` |
+| **[Hono vs Express](https://github.com/UsamaGM/hono-vs-express)** | Deep dive benchmarking suite comparing Edge-optimized Hono.js vs Express.js throughput. | `TypeScript` `K6` `Node` |
+| **[Interviewer AI](https://github.com/UsamaGM/InterviewAI)** | AI platform that generates dynamic technical interview questions and scores responses. | `Gemini API` `NLP` `React` |
+| **[Dotfiles](https://github.com/UsamaGM/neovim-setup)** | Deeply customized Lua configuration for Neovim to achieve maximum development velocity. | `Lua` `LSP` `Vimscript` |
+
+---
+
+<br />
+
+<div align="center">
+  <pre>
+  <code>
+  $ ssh usama@systems-architect
+  > Authenticating...
+  > Access Granted.
+  > echo "One commit at a time."
+  </code>
+  </pre>
+</div>
